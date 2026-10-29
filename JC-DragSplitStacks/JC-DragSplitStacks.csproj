@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <!-- Wspolne ustawienia (net48, referencje do gry, skladanie folderu moda) sa w ..\Directory.Build.props -->
+  <PropertyGroup>
+    <RootNamespace>JC.DragSplitStacks</RootNamespace>
+    <AssemblyName>$(MSBuildProjectName)</AssemblyName>
+  </PropertyGroup>
+</Project>

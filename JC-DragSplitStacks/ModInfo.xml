@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<Name value="JC-DragSplitStacks" />
+	<DisplayName value="JC Drag Split Stacks" />
+	<Description value="Minecraft-style stack splitting: hold the left mouse button and drag a held stack across slots to split it evenly; drag with the right button to place one item per slot. Backpack, toolbelt, storage, workstation fuel and forge smelting slots. [Server/host: not needed | Clients: each player who wants it | EAC: must be OFF for that player]" />
+	<Author value="Jax Car'das (JC)" />
+	<Version value="3.4.0.2" />
+	<Website value="https://next.nexusmods.com/profile/JaxCardas/mods" />
+</xml>
